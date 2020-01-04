@@ -1,0 +1,31 @@
+{
+  "name": "kuromu",
+  "version": "0.5.3",
+  "description": "Another random Discord bot done with klasa and discord.js",
+  "main": "kuromuShardingManager.js",
+  "scripts": {
+    "start": "node kuromuShardingManager.js"
+  },
+  "author": "- Ҝizuru キズル -",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "canvas": "^2.6.1",
+    "dblapi.js": "^2.3.0",
+    "discord.js": "github:discordjs/discord.js#master",
+    "erlpack": "github:discordapp/erlpack",
+    "klasa": "github:dirigeants/klasa#settings",
+    "klasa-dashboard-hooks": "github:dirigeants/klasa-dashboard-hooks",
+    "kurasuta": "^1.1.6",
+    "libsodium-wrappers": "^0.7.6",
+    "mongodb": "^3.4.1",
+    "node-fetch": "^2.6.0",
+    "node-opus": "^0.3.3",
+    "prism-media": "github:Kizuru/prism-media",
+    "saslprep": "^1.0.3",
+    "simple-youtube-api": "^5.2.1",
+    "utf-8-validate": "^5.0.2",
+    "ytdl-core-discord": "github:Kizuru/ytdl-core-discord",
+    "zlib-sync": "^0.1.6"
+  }
+}

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4275692-cd54-48eb-9468-b1830321a7b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1TcB6qkgx9snURWzUnCjPKppcya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kuromu-api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Softwares\Jetbrains\apps\WebStorm\ch-0\193.5233.52\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\NodeJS\Kuromu\middlewares" />
+      <recent name="D:\Development\NodeJS\Kuromu\routes" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands\System\Tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\NodeJS\Kuromu\commands\System\Tools" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands\System\Management" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands\Disabled" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands\Disabled\User Settings" />
+      <recent name="D:\Development\NodeJS\Kuromu\commands\General\Information" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4275692-cd54-48eb-9468-b1830321a7b8" name="Default Changelist" comment="" />
+      <created>1573749330337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573749330337</updated>
+      <workItem from="1573749331672" duration="13344000" />
+      <workItem from="1573828258347" duration="6290000" />
+      <workItem from="1573855080016" duration="191000" />
+      <workItem from="1573899991631" duration="232000" />
+      <workItem from="1573900990082" duration="8467000" />
+      <workItem from="1574008037658" duration="13851000" />
+      <workItem from="1574194582783" duration="1359000" />
+      <workItem from="1574452157695" duration="4759000" />
+      <workItem from="1574457031805" duration="1300000" />
+      <workItem from="1574599244657" duration="2903000" />
+      <workItem from="1574706391341" duration="139000" />
+      <workItem from="1575745400852" duration="14000" />
+      <workItem from="1576246710550" duration="680000" />
+      <workItem from="1576247528095" duration="17039000" />
+      <workItem from="1576340349561" duration="21542000" />
+      <workItem from="1577026022198" duration="5850000" />
+      <workItem from="1577180917118" duration="583000" />
+      <workItem from="1577534309124" duration="2540000" />
+      <workItem from="1577620669012" duration="7070000" />
+      <workItem from="1577637368095" duration="2345000" />
+      <workItem from="1577660207388" duration="442000" />
+      <workItem from="1577726501132" duration="22352000" />
+      <workItem from="1577788986783" duration="15957000" />
+      <workItem from="1577834802710" duration="4582000" />
+      <workItem from="1577881587113" duration="967000" />
+      <workItem from="1577882589167" duration="5321000" />
+      <workItem from="1577888856379" duration="5443000" />
+      <workItem from="1577896572289" duration="8538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577726579608">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1577726579608" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1573910276444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1573910276444" />
+    <state x="480" y="157" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574456884911">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="157" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1574456884911" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1577907778683">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577907778683" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1573749422749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1573749422749" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1573749422749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1573749422749" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1573749422749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1573749422749" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1573749422749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1573749422749" />
+    <state x="380" y="172" key="IDE.errors.dialog" timestamp="1573749689504">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="172" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1573749689504" />
+    <state x="356" y="88" width="998" height="708" key="SettingsEditor" timestamp="1577882557135">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="356" y="88" width="998" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1577882557135" />
+    <state x="431" y="132" width="737" height="596" key="find.popup" timestamp="1577738125278">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="431" y="132" width="737" height="596" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1577738125278" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1576344229694">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1576344229694" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1577805271757">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1577805271757" />
+  </component>
+</project>
